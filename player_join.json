@@ -1,0 +1,7 @@
+{
+  "criteria": {
+    "joined_server": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
